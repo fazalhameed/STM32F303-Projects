@@ -7,8 +7,9 @@ Welcome to the STM32F303  Projects repository! This repository contains various 
 ## Projects Included
 
 1. Buzzer Control
-2. LCD Interface
-3. Seven segment display
+2. LED Interface
+3. LCD Interface
+4. Seven segment display
 
 ## Getting Started
 
