@@ -19,6 +19,8 @@ Welcome to the STM32F303  Projects repository! This repository contains various 
 11. Led Controle using SIM module
 12. Multi Channel Leds
 13. Oled Display
+14. Free RTOS LED
+15. Free RTOS multiple stepper motor
 
 ## Getting Started
 
