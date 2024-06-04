@@ -10,6 +10,17 @@ Welcome to the STM32F303  Projects repository! This repository contains various 
 2. LED Interface
 3. LCD Interface
 4. Seven segment display
+5. Dot Matrix
+6. LCD Interface using I2C
+7. DTH22 Temparature and Huamdity sensor
+8. EEPROM
+9. Joystick
+10. Keypad Inrterface
+11. Led Controle using SIM module
+12. Multi Channel Leds
+13. Oled Display
+14. Free RTOS LED
+15. Free RTOS multiple stepper motor
 
 ## Getting Started
 
