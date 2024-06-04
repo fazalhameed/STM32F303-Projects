@@ -21,6 +21,8 @@ Welcome to the STM32F303  Projects repository! This repository contains various 
 13. Oled Display
 14. Free RTOS LED
 15. Free RTOS multiple stepper motor
+16. Soil Moisture Sensor
+17. Sound Sensor
 
 ## Getting Started
 
