@@ -24,6 +24,8 @@ Welcome to the STM32F303  Projects repository! This repository contains various 
 16. Soil Moisture Sensor
 17. Sound Sensor
 18. Voltage Sensor
+19. Tilt Sensor
+20. UART Between STM
 
 ## Getting Started
 
