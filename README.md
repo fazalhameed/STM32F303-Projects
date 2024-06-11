@@ -23,6 +23,7 @@ Welcome to the STM32F303  Projects repository! This repository contains various 
 15. Free RTOS multiple stepper motor
 16. Soil Moisture Sensor
 17. Sound Sensor
+18. Voltage Sensor
 
 ## Getting Started
 
