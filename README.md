@@ -28,6 +28,9 @@ Welcome to the STM32F303  Projects repository! This repository contains various 
 20. UART Between STM
 21. ADC to SWV Trace
 22. SD card Interfacing
+23. Blutooth Module
+24. Contionus Servo Controler Using FS90R
+    
 
 ## Getting Started
 
