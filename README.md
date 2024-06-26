@@ -32,7 +32,7 @@ Welcome to the STM32F303  Projects repository! This repository contains various 
 24. Contionus Servo Controler Using FS90R
 25. Hall Effect Sensor
 26. External Inturrupt
-27. 
+27. I2C Scanner
     
 
 ## Getting Started
