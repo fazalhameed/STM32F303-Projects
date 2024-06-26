@@ -30,6 +30,9 @@ Welcome to the STM32F303  Projects repository! This repository contains various 
 22. SD card Interfacing
 23. Blutooth Module
 24. Contionus Servo Controler Using FS90R
+25. Hall Effect Sensor
+26. External Inturrupt
+27. 
     
 
 ## Getting Started
