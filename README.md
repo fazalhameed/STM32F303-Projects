@@ -33,6 +33,7 @@ Welcome to the STM32F303  Projects repository! This repository contains various 
 25. Hall Effect Sensor
 26. External Inturrupt
 27. I2C Scanner
+28. Internal Temprature Sensor
     
 
 ## Getting Started
