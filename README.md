@@ -34,6 +34,7 @@ Welcome to the STM32F303  Projects repository! This repository contains various 
 26. External Inturrupt
 27. I2C Scanner
 28. Internal Temprature Sensor
+29. Potentiometer
     
 
 ## Getting Started
