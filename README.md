@@ -37,6 +37,8 @@ Welcome to the STM32F303  Projects repository! This repository contains various 
 29. Potentiometer
 30. PWM Signal
 31. RTC Intyerface
+32. Servo Motor Controle By keypad
+33. 
     
 
 ## Getting Started
