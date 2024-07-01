@@ -36,9 +36,11 @@ Welcome to the STM32F303  Projects repository! This repository contains various 
 28. Internal Temprature Sensor
 29. Potentiometer
 30. PWM Signal
-31. RTC Intyerface
+31. RTC Interface
 32. Servo Motor Controle By keypad
-33. 
+33. Servo PWM
+34. Ultrasonic Sensor
+    
     
 
 ## Getting Started
