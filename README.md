@@ -35,6 +35,8 @@ Welcome to the STM32F303  Projects repository! This repository contains various 
 27. I2C Scanner
 28. Internal Temprature Sensor
 29. Potentiometer
+30. PWM Signal
+31. RTC Intyerface
     
 
 ## Getting Started
