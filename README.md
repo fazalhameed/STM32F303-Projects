@@ -5,18 +5,18 @@ This repository contains a variety of projects and tasks developed for the STM32
 
 ## Projects Included
 
-1. **Buzzer Control**
-2. **LED Interface**
-3. **LCD Interface**
-4. **Seven Segment Display**
-5. **Dot Matrix**
-6. **LCD Interface using I2C**
-7. **DHT22 Temperature and Humidity Sensor**
-8. **EEPROM**
-9. **Joystick**
-10. **Keypad Interface**
-11. **LED Control using SIM Module**
-12. **Multi-Channel LEDs**
+1. Buzzer Control
+2. LED Interface
+3. LCD Interface
+4. Seven Segment Display
+5. Dot Matrix
+6. LCD Interface using I2C
+7. DHT22 Temperature and Humidity Sensor
+8. EEPROM
+9. Joystick
+10. Keypad Interface
+11. LED Control using SIM Module
+12. Multi-Channel LEDs
 13. **OLED Display**
 14. **FreeRTOS LED**
 15. **FreeRTOS Multiple Stepper Motors**
