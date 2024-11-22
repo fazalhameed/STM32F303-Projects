@@ -11,7 +11,6 @@ This repository contains a variety of projects and tasks developed for the STM32
 4. Seven Segment Display
 5. Dot Matrix
 6. LCD Interface using I2C
-7. DHT22 Temperature and Humidity Sensor
 8. EEPROM
 9. Joystick
 10. Keypad Interface
