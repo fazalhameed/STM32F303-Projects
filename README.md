@@ -37,7 +37,7 @@ This repository contains a variety of projects and tasks developed for the STM32
 31. **RTC Interface**
 32. **Servo Motor Control By Keypad**
 33. **Servo PWM**
-34. **Ultrasonic Sensor**
+
 
 ## Getting Started
 
