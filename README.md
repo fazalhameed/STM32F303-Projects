@@ -16,10 +16,9 @@ This repository contains a variety of projects and tasks developed for the STM32
 10. Keypad Interface
 11. LED Control using SIM Module
 12. Multi-Channel LEDs
-13. **OLED Display**
-14. **FreeRTOS LED**
+13. OLED Display
+14. FreeRTOS LED
 15. **FreeRTOS Multiple Stepper Motors**
-16. **Soil Moisture Sensor**
 17. **Sound Sensor**
 18. **Voltage Sensor**
 19. **Tilt Sensor**
