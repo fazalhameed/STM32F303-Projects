@@ -18,11 +18,11 @@ This repository contains a variety of projects and tasks developed for the STM32
 12. Multi-Channel LEDs
 13. OLED Display
 14. FreeRTOS LED
-15. **FreeRTOS Multiple Stepper Motors**
-17. **Sound Sensor**
-18. **Voltage Sensor**
-19. **Tilt Sensor**
-20. **UART Between STM**
+15. FreeRTOS Multiple Stepper Motors
+17. Sound Sensor
+18. Voltage Sensor
+19. Tilt Sensor
+20. UART Between STM
 21. **ADC to SWV Trace**
 22. **SD Card Interfacing**
 23. **Bluetooth Module**
