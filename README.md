@@ -34,7 +34,6 @@ This repository contains a variety of projects and tasks developed for the STM32
 29. **Potentiometer**
 30. **PWM Signal**
 31. **RTC Interface**
-32. **Servo Motor Control By Keypad**
 33. **Servo PWM**
 
 
