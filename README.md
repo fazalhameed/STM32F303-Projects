@@ -23,18 +23,18 @@ This repository contains a variety of projects and tasks developed for the STM32
 18. Voltage Sensor
 19. Tilt Sensor
 20. UART Between STM
-21. **ADC to SWV Trace**
-22. **SD Card Interfacing**
-23. **Bluetooth Module**
-24. **Continuous Servo Controller Using FS90R**
-25. **Hall Effect Sensor**
-26. **External Interrupt**
-27. **I2C Scanner**
-28. **Internal Temperature Sensor**
-29. **Potentiometer**
-30. **PWM Signal**
-31. **RTC Interface**
-33. **Servo PWM**
+21. ADC to SWV Trace
+22. SD Card Interfacing
+23. Bluetooth Module
+24. Continuous Servo Controller Using FS90R
+25. Hall Effect Sensor
+26. External Interrupt
+27. I2C Scanner
+28. Internal Temperature Sensor
+29. Potentiometer
+30. PWM Signal
+31. RTC Interface
+33. Servo PWM
 
 
 ## Getting Started
