@@ -182,7 +182,6 @@ void SystemClock_Config(void)
     Error_Handler();
   }
 }
-
 /**
   * @brief GPIO Initialization Function
   * @param None
