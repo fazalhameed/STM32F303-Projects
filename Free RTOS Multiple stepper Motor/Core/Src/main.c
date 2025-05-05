@@ -108,7 +108,6 @@ void step (int steps, uint8_t direction, uint16_t delay)
     microDelay1(delay);
   }
 }
-
 // CCV - Counter Clockwise motor2
 void stepCCV (int steps, uint16_t delay)
 {
